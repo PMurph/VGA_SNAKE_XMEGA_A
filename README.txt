@@ -1,7 +1,3 @@
-COMP 4550 - Project - Phase 1
-Patrick Murphy - 6850006
-murphypc
-
 Hardware:
     - Amtel XMEGA-A1 Xplained
     - VGA Breakout Board
@@ -25,9 +21,10 @@ Setup:
         - Button 1 -> PORTD - PIN 1
         - Button 2 -> PORTD - PIN 2
         - Button 3 -> PORTD - PIN 3
+	- SW5 - PAUSE/UNPAUSE
         
 Functionality
-    - Button 0 - Turns Screen Red
-    - Button 1 - Turns Screen Green
-    - Button 2 - Turns Screen Blue
-    - Button 3 - Plays an annoying sound
+    - Button 0 - UP
+    - Button 1 - DOWN
+    - Button 2 - RIGHT
+    - Button 3 - LEFT
